@@ -1,0 +1,13 @@
+name = NeFo Translation
+description = Makes NeFo-Forschungsatlas categories available for translation.
+dependencies[] = nefo
+dependencies[] = i18n_string
+package = NEFO
+core = 7.x
+
+; Added by NeFo Team
+version = "7.x-1.0"
+core = "7.x"
+
+
+
