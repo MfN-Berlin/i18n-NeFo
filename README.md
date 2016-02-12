@@ -1,5 +1,5 @@
 # NeFo Translation
-Makes NeFo Forschungsatlas categories available for translation.
+Makes NeFo-Forschungsatlas categories available for translation.
 
 # Dependencies
 * NeFo core module
